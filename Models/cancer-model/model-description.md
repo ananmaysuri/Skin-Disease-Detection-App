@@ -10,7 +10,8 @@ Techniques Implemented:
 
 
 
-Dataset Used: Skin Cancer MNIST: HAM10000
+**Dataset Used:**
+Skin Cancer MNIST: HAM10000
 
 
 
