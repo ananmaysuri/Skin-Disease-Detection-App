@@ -10,7 +10,7 @@
 
 
 
-# Dataset Used:
+## Dataset Used:
 Skin Cancer MNIST: HAM10000
 
 
