@@ -1,12 +1,12 @@
-**Model Used:**
+## Model Used:
 
 
 
-**Training of Model:**
+## Training of Model:
 
 
 
-**Techniques Implemented:**
+## Techniques Implemented:
 
 
 
