@@ -1,2 +1,4 @@
 *.fits filter=lfs diff=lfs merge=lfs -text
 *.gz filter=lfs diff=lfs merge=lfs -text
+https://:@lsst-sqre-prod-git-lfs.s3-us-west-2.amazonaws.com
+https://:@s3.lsst.codes
