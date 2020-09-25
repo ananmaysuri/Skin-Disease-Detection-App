@@ -1,6 +1,6 @@
 ## Model Used:
 
-ResNet101v2
+ResNet50v2
 
 ## Training of Model:
 
@@ -19,7 +19,7 @@ The data was upsampled due to the imbalanced dataset. Data augmentation was trie
 
 ## Output Information:
 
-The Original model gave an accuracy of 97% in the test dataset and was of the size 154 mb. The model had to be quantized to reduce the size in order to deploy it in the mobile app. The tflite model formed is 38.7 mb. The accuracy dropped to 92%, which is still a good enough accuracy.
+The Original model gave an accuracy of 98% in the test dataset and was of the size 154 mb. The model had to be quantized to reduce the size in order to deploy it in the mobile app. The tflite model formed is 38.7 mb. The accuracy dropped to 93%, which is still a good enough accuracy.
 
 ## Dataset Used:
 Skin Cancer MNIST: HAM10000
