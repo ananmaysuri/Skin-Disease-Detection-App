@@ -7,11 +7,19 @@ We aim to provide a complete user experience with integrated medication and doct
 We have used 3 models for 3-layered multipurpose testing, namely, for detecting Melanoma( the most fatal type of Skin Cancer), 
 the given types of Skin Cancers:
 
-1.
+1. Melanocytic nevi
 
-2.
+2. Melanoma
 
-3.
+3. Benign keratosis-like lesions
+
+4. Basal cell carcinoma
+
+5. Actinic keratoses
+
+6. Vascular lesions
+
+7. Dermatofibroma
 
 And also the given types of allergies and skin diseases:
 
