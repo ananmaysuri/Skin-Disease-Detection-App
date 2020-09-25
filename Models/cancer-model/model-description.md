@@ -1,6 +1,6 @@
 ## Model Used:
 
-ResNet152v2
+ResNet101v2
 
 ## Training of Model:
 
