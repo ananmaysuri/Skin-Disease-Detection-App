@@ -9,17 +9,15 @@ the given types of Skin Cancers:
 
 1. Melanocytic nevi
 
-2. Melanoma
+2. Benign keratosis-like lesions
 
-3. Benign keratosis-like lesions
+3. Basal cell carcinoma
 
-4. Basal cell carcinoma
+4. Actinic keratoses
 
-5. Actinic keratoses
+5. Vascular lesions
 
-6. Vascular lesions
-
-7. Dermatofibroma
+6. Dermatofibroma
 
 And also the given types of allergies and skin diseases:
 
