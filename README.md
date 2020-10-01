@@ -21,26 +21,42 @@ the given types of Skin Cancers:
 
 And also the given types of allergies and skin diseases:
 
-1.
+1. Acne-and-Rosacea-Photos
 
-2.
+2. Cellulitis-Impetigo-and-other-Bacterial-Infections
 
-3.
+3. Eczema-and-Atopic-Dermatitis-Photos
+
+4. Nail-Fungus-and-other-Nail-Disease
 
 # Application/Deployment:
 
-To deploy our models we have seamlessly integrated Tensorflow models using TFLite framework into a Flutter Android App, where we have used multiple APIs to create an engaging user-experience and provided with testing/educative as well as preventive and medical aid features. The features of our Application is listed as follows:
+To deploy our models we have seamlessly integrated Tensorflow models using TFLite framework into a Flutter Android App, where we have used multiple APIs to create an engaging user-experience and provided with testing/educative as well as preventive and medical aid features. The salient features of our Application is listed as follows:
+
+1. Tutorial Carousel to explain process
+
+2. User input form to check Symptoms
+
+3. 3-types of Prediction model for reliable test results
+
+4. Ailment information and awareness page
+
+5. Contact Doctor through Email and Whatsapp APIs
+
+6. Search for Local Hospitals using Google Map integration
+
+7. Appointment real-time database and scheduling
 
 # Files in Repository:
 
 1. Model Training, Data Preprocessing and Conversion to TFLite is shown in Skin-Cancer-Detection-App/Models/.. as Jupyter Notebooks. Data is taken from Kaggle for Melanoma Model and Cancer Model. For Allergy Model a custom scraper is implemented for obtaining data, which is shown in,
 Skin-Cancer-Detection-App/Models/allergy-model/..
 
-2. Models-TFLite contain the .tflite models of the codes shown in in /Models/..
+2. FLutter app design and model is contained in Skin-Cancer-Detection-App/App/.. 
 
-3. FLutter app design and model is contained in Skin-Cancer-Detection-App/App/.. 
+3. Models in .tflite formats and their labels are in App/assets/models
 
-4. Install app and Requirements
+4. Application APK
 
 
 Git LFS
@@ -53,4 +69,4 @@ explains how to set up Git LFS for LSST development.
 
 # Install Instructions:
 
-How to run our App? Follow the instructions given here: 
+How to run our App? Just download the apk and install it. Alternatively you can run the source code in Android Studio, by connecting an AVD and using your own google services login. To run the app in the emulator go to app directory and execute: flutter run. Flutter and Dart SDK required.
