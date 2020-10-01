@@ -33,7 +33,7 @@ And also the given types of allergies and skin diseases:
 
 To deploy our models we have seamlessly integrated Tensorflow models using TFLite framework into a Flutter Android App, where we have used multiple APIs to create an engaging user-experience and provided with testing/educative as well as preventive and medical aid features. The salient features of our Application is listed as follows:
 
-1. Tutorial Carousel to explain process
+1. Tutorial to explain process
 
 2. User input form to check Symptoms
 
