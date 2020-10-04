@@ -56,7 +56,7 @@ To deploy our models we have seamlessly integrated Tensorflow models using TFLit
 1. Model Training, Data Preprocessing and Conversion to TFLite is shown in Skin-Cancer-Detection-App/Models/.. as Jupyter Notebooks. Data is taken from Kaggle for Melanoma Model and Cancer Model. For Allergy Model a custom scraper is implemented for obtaining data, which is shown in,
 Skin-Cancer-Detection-App/Models/allergy-model/..
 
-2. FLutter app design and model is contained in Skin-Cancer-Detection-App/App/.. 
+2. Flutter app design and model is contained in Skin-Cancer-Detection-App/App/.. 
 
 3. Models in .tflite formats and their labels are in App/assets/models
 
@@ -74,12 +74,14 @@ explains how to set up Git LFS for LSST development.
 # Install Instructions:
 
 ## Requirements:
+
 1. Flutter SDK and Android Studio or any other emulator to run app
 2. Get packages by going to source code directory and run command: flutter pub get
 3. To check is Flutter is running and emulator is connected: flutter doctor
 4. To run app: flutter run
 
 ## Additional Steps:
+
 1. Obtain your SHA-keys and google-services.json after adding project name on Firebase Console
 2. Add the files and ID in the downloaded code, this configures google login on homepage
 3. Alternatively you could remove login code (dart files)
