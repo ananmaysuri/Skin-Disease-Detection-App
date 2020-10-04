@@ -9,7 +9,7 @@
 #### Scraper:- 
 * We made a scraper which scrapes images of diseases from DermNet's website. 
 * The user just has to specify which diseases to select out of the 23 choices available on DermNet. 
-* You can find the code for the scraper in scraper.py. 
+* You can find the code for the scraper in dermnet-scraper.py. 
 
 ## Model Used:
 
