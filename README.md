@@ -4,11 +4,11 @@
   <img src="https://user-images.githubusercontent.com/42714939/95019503-60d53500-0683-11eb-88a7-1aa51aa58d06.png" width="400" title="image">
 </p>
 
-We aim to provide a complete user experience with integrated medication and doctor-appointment APIs as well as awareness surrounding Skin cancer and allergies. Using 3 state-of-the-art Deep Learning Classification models we try to predict with considerably high accuracy if you are suffering from Melanoma (which is the most fatal type of skin cancer) or any other type of cancer (basal cell carcinoma, and 7 other types), or if you are suffering from an allergy (using a separate model). With features like, embedded videos, remedies, medicine browsing, Find a Doctor we hope to be a one-stop solution for the user's dermatological problems.
+We aim to provide a complete user experience with integrated medication and doctor-appointment APIs as well as awareness surrounding Skin cancer and allergies. Using 3 state-of-the-art Deep Learning Classification models we try to predict with considerably high accuracy if you are suffering from Melanoma (which is the most fatal type of skin cancer) or any other type of cancer (basal cell carcinoma), or if you are suffering from an allergy (using a separate model). With features like, embedded videos, remedies, medicine browsing, Find a Doctor we hope to be a one-stop solution for the user's dermatological problems.
 
 # Models:
 
-We have used 3 models for 3-layered multipurpose testing, namely, for detecting Melanoma( the most fatal type of Skin Cancer), 
+We have used 3 models for 3-layered multipurpose testing, namely, for detecting Melanoma(the most fatal type of Skin Cancer), 
 the given types of Skin Cancers:
 
 1. Melanocytic nevi
@@ -25,13 +25,13 @@ the given types of Skin Cancers:
 
 And also the given types of allergies and skin diseases:
 
-1. Acne-and-Rosacea-Photos
+1. Acne and Rosacea Photos
 
-2. Cellulitis-Impetigo-and-other-Bacterial-Infections
+2. Eczema and Atopic Dermatitis Photos
 
-3. Eczema-and-Atopic-Dermatitis-Photos
+3. Nail Fungus and other Nail Disease
 
-4. Nail-Fungus-and-other-Nail-Disease
+4. Scabies Lyme Disease and other Infestations and Bites
 
 # Application/Deployment:
 
