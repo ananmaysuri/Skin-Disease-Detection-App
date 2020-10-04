@@ -54,13 +54,11 @@ To deploy our models we have seamlessly integrated Tensorflow models using TFLit
 # Files in Repository:
 
 1. Model Training, Data Preprocessing and Conversion to TFLite is shown in Skin-Cancer-Detection-App/Models/.. as Jupyter Notebooks. Data is taken from Kaggle for Melanoma Model and Cancer Model. For Allergy Model a custom scraper is implemented for obtaining data, which is shown in,
-Skin-Cancer-Detection-App/Models/allergy-model/..
+Skin-Cancer-Detection-App/Models/allergy-model/.. A description of models is also provided.
 
-2. Flutter app design and model is contained in Skin-Cancer-Detection-App/App/.. 
+2. Flutter app source code is contained in Skin-Cancer-Detection-App/app/.. 
 
 3. Models in .tflite formats and their labels are in App/assets/models
-
-4. Application APK
 
 
 Git LFS
