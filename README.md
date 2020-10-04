@@ -69,16 +69,16 @@ To clone and use this repository, you'll need Git Large File Storage (LFS).
 Our [Developer Guide](https://developer.lsst.io/tools/git_lfs.html)
 explains how to set up Git LFS for LSST development.
 
-# Install Instructions:
+## Install Instructions:
 
-## Requirements:
+### Requirements:
 
 1. Flutter SDK and Android Studio or any other emulator to run app
 2. Get packages by going to source code directory and run command: flutter pub get
 3. To check is Flutter is running and emulator is connected: flutter doctor
 4. To run app: flutter run
 
-## Additional Steps:
+### Additional Steps:
 
 1. Obtain your SHA-keys and google-services.json after adding project name on Firebase Console
 2. Add the files and ID in the downloaded code, this configures google login on homepage
