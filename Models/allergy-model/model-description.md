@@ -1,7 +1,12 @@
-Dataset Used:
+# Dataset Used:
 
-Model Used:
+# Model Used:
 
-Purpose:
+The Architecture Used is XXX, which is illustrated in the diagram below:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36783331/95022363-730b9f00-0694-11eb-9dde-40cc0152ad75.png" width="800" title="image">
+</p>
 
-Training:
+# Purpose:
+
+# Training:
