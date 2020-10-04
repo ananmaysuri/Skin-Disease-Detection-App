@@ -1,6 +1,10 @@
 ## Model Used:
 
-ResNet50v2
+ResNet50v2, Architecture is shown here:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36783331/95022311-245e0500-0694-11eb-9135-167ff4be2ab9.png" width="600" title="image">
+</p>
 
 ## Training of Model:
 
