@@ -1,12 +1,12 @@
 ## Dataset Used:
 
-### DermNet:- \
+#### DermNet:- 
 * DermNet New Zealand is an established leader in the world of dermatology. \
 * They have hundreds of thousands of clinical images. \
 * Unfortunately, out of them only around 20,000 images is publicly available on their website. \
 * http://www.dermnet.com/dermatology-pictures-skin-disease-pictures/ 
 
-### Scraper:- \
+#### Scraper:- 
 * We made a scraper which scrapes images of diseases from DermNet's website. \
 * The user just has to specify which diseases to select out of the 23 choices available on DermNet. \
 * You can find the code for the scraper in scraper.py. 
