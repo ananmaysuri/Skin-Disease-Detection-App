@@ -14,7 +14,12 @@ accuracy of the model. This model is in the Models-TFLite Folder.
 
 # Model Used:
 
-Effnet B5
+Effnet B5 Architecture, Illustrated here:
+
+<p align="center">
+  <img src="https://github.com/ananmaysuri/Skin-Cancer-Detection-App/edit/master/Models/melanoma-model/flowchart_melanoma.png" width="500" title="image">
+</p>
+
 
 # Training of Model:
 
