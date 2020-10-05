@@ -71,7 +71,7 @@ explains how to set up Git LFS for LSST development.
 
 ## Install Instructions:
 
-### Requirements:
+### Requirements to run source code:
 
 1. Flutter SDK and Android Studio or any other emulator to run app
 2. Get packages by going to source code directory and run command: flutter pub get
@@ -84,3 +84,5 @@ explains how to set up Git LFS for LSST development.
 2. Add the files and ID in the downloaded code, this configures google login on homepage
 3. Alternatively you could remove login code (dart files)
 4. To make Google maps integration work you need to have a Google Cloud account
+
+## APK Submitted as zip file
