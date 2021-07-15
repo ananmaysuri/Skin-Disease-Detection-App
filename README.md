@@ -1,4 +1,4 @@
-# Derman : A Skin Cancer Detection App
+# Derma : A Skin Cancer Detection App
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42714939/95019503-60d53500-0683-11eb-88a7-1aa51aa58d06.png" width="400" title="image">
